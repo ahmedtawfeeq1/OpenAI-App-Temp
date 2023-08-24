@@ -69,3 +69,31 @@
     margin-top: 40px;
     width: 69ch;
   }
+
+/* TextCard.css */
+.text-card {
+  direction: rtl; /* Right-to-left text direction */
+  background-color: skyblue; /* Sky color background */
+  border-radius: 15px; /* 15px rounded corners */
+  border: 2px solid lightblue; /* Light blue border, 2px thick */
+  padding: 15px;
+  margin: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center; /* Centered text */
+  word-wrap: break-word; /* Text wrap */
+}
+
+.text-card-title {
+  color: #333;
+  margin-bottom: 10px;
+  text-align: center; /* Centered text */
+  word-wrap: break-word; /* Text wrap */
+}
+
+.text-card-text {
+  color: #555;
+  font-size: 16px;
+  line-height: 1.5;
+   word-wrap: break-word; /* Text wrap */
+}
+

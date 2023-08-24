@@ -1,4 +1,5 @@
-import { Configurations, OpenAIApi } from "openai"; // import openai-api
+import OpenAI from 'openai'; // import openai-api
+
 import dotenv from "dotenv"; //  import dotenv to access .env file
 dotenv.config(); // load .env file
 
@@ -12,11 +13,9 @@ if (!OPENAI_API_KEY) {
 }
 
 // used to configure the API
-const configuration = new Configurations({ 
-    apikey: OPENAI_API_KEY,
-});
-
 // used to access the API and make requests in the app
-const openai = new OpenAIApi(configuration); 
+const openai = new OpenAI({
+  apikey: OPENAI_API_KEY,
+});
 
 export default openai; // export openai to use in other files

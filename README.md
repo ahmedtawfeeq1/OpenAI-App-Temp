@@ -42,24 +42,27 @@ Navigate to the project directory and install the required dependencies.
 
 Add your OpenAI API key to the appropriate configuration file. 
 
-__HINT:__ Rename `.env.example` to `.env` then add your OPENAI_API_KEY & PORT to it instead of dummies. And you are ready to go!
+__HINT:__ __Rename `.env.example` to `.env` then add your OPENAI_API_KEY & PORT to it instead of dummies. And you are ready to go!__
 
 
 ### 4. Run the Application
 
 Start the development server or build the production version as needed.
 
-    
+    cd server // make sure to run the server from the server directory, obvious :XD
     npm start
 
 
 ### 5. Run the Client App
 
 Open the sample basic client to interact with the model and ask from the UI.
-    
 
+    cd client // make sure to run your client UI from the client directory, obviou again :XD
     npm run dev
     
+### 6. Ready to test
+
+In case you did all right without any issues, you should be able to talk to OpenAI right now!
 
 ## Documentation
 

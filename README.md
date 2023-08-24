@@ -28,10 +28,10 @@ The `OpenAI-App-Temp` provides a foundational structure for building application
 
 Navigate to the project directory and install the required dependencies.
 
-    ```
+    
     cd OpenAI-App-Temp
     npm install
-    ```
+    
 
 ### Configure OpenAI Credentials
 

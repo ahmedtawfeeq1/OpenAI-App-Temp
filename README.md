@@ -1,7 +1,9 @@
 # OpenAI-App-Temp
 
 Hi, Ahmed Tawfeeq is here - an AI and automation Specialist.
-    __LinkedIn:__ https://www.linkedin.com/in/ahmed-tawfeeq/
+
+    **LinkedIn:** https://www.linkedin.com/in/ahmed-tawfeeq/
+
 This repository serves as a template for applications powered by OpenAI's Generative Pre-trained Transformers (GPT). It's designed to be a starting point for developers looking to integrate OpenAI's powerful natural language processing capabilities into their applications.
 
 ## Overview

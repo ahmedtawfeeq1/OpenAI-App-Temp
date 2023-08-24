@@ -50,7 +50,7 @@ Start the development server or build the production version as needed.
 
 Open the sample basic client to interact with the model and ask from the UI.
     
-    
+
     npm run dev
     
 
@@ -68,7 +68,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Support and Feedback
 
-For support, feedback, or any additional inquiries, please contact the repository maintainer.
+For support, feedback, or any additional inquiries, please contact me at: 
+```
+    deals@ahmedtawfeeq.com
+```    
 
 ---
 

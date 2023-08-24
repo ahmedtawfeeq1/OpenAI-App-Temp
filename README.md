@@ -20,7 +20,7 @@ The `OpenAI-App-Temp` provides a foundational structure for building application
 
 ## Getting Started
 
-1. ### Clone the Repository: 
+### 1. Clone the Repository: 
 
 Clone this repository to your local machine to get started.
 
@@ -29,7 +29,7 @@ Clone this repository to your local machine to get started.
    ```
 
 
-2. ### Install Dependencies
+### 2. Install Dependencies
 
 Navigate to the project directory and install the required dependencies.
 
@@ -38,14 +38,14 @@ Navigate to the project directory and install the required dependencies.
     npm install
     
 
-3. ### Configure OpenAI Credentials
+### 3. Configure OpenAI Credentials
 
 Add your OpenAI API key to the appropriate configuration file. 
 
 __HINT:__ Rename `.env.example` to `.env` then add your OPENAI_API_KEY & PORT to it instead of dummies. And you are ready to go!
 
 
-4. ### Run the Application
+### 4. Run the Application
 
 Start the development server or build the production version as needed.
 
@@ -53,7 +53,7 @@ Start the development server or build the production version as needed.
     npm start
 
 
-5. ### Run the Client App
+### 5. Run the Client App
 
 Open the sample basic client to interact with the model and ask from the UI.
     

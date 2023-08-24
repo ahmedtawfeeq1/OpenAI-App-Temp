@@ -19,7 +19,7 @@ The `OpenAI-App-Temp` provides a foundational structure for building application
 1. **Clone the Repository**: Clone this repository to your local machine to get started.
 
    ```
-   git clone https://github.com/yourusername/OpenAI-App-Temp.git
+   git clone [https://github.com/yourusername/OpenAI-App-Temp.git](https://github.com/ahmedtawfeeq1/OpenAI-App-Temp)
    ```
 
 ## Getting Started

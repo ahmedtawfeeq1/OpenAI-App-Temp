@@ -1,6 +1,6 @@
 # OpenAI-App-Temp
 
-Hi, Ahmed Tawfeeq is here - an AI & Automation Specialist.
+Hi, Ahmed Tawfeeq is here - an AI and automation Specialist.
 
 This repository serves as a template for applications powered by OpenAI's Generative Pre-trained Transformers (GPT). It's designed to be a starting point for developers looking to integrate OpenAI's powerful natural language processing capabilities into their applications.
 
@@ -41,9 +41,9 @@ Add your OpenAI API key to the appropriate configuration file.
 
 Start the development server or build the production version as needed.
 
-    ```
+    
     npm start
-    ```
+    
 
 ## Documentation
 

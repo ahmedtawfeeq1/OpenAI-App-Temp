@@ -18,7 +18,7 @@ The `OpenAI-App-Temp` provides a foundational structure for building application
 
 1. **Clone the Repository**: Clone this repository to your local machine to get started.
 
-   ```bash
+   ```
    git clone https://github.com/yourusername/OpenAI-App-Temp.git
    ```
 
@@ -28,7 +28,7 @@ The `OpenAI-App-Temp` provides a foundational structure for building application
 
 Navigate to the project directory and install the required dependencies.
 
-    ```bash
+    ```
     cd OpenAI-App-Temp
     npm install
     ```
@@ -41,7 +41,7 @@ Add your OpenAI API key to the appropriate configuration file.
 
 Start the development server or build the production version as needed.
 
-    ```bash
+    ```
     npm start
     ```
 
